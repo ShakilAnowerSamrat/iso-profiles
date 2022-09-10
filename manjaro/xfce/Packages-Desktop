@@ -190,6 +190,8 @@ evince
 >extra viewnior
 >extra xfburn
 >extra yelp
+>extra libreoffice-fresh-bn
+>basic onlyoffice-desktopeditors
 
 # Optional dependencies engrampa
 p7zip  # 7Z and ARJ archive support
